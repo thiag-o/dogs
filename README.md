@@ -21,7 +21,7 @@ Este projeto foi desenvolvido como parte do curso **"React Completo"** oferecido
 
 **Dependência**: Node 14.17.0
 
-1. Clone este repositório em sua máquina local `git clone git@github.com:thiag-o/dogs.git`.
+1. Clone este repositório em sua máquina local `git clone https://github.com/thiag-o/dogs.git`.
 2. Instale as dependências do projeto executando `npm install`.
 3. Faça a build do projeto executando `npm run build`
 4. Inicie o servidor local digitando `npm start`.
